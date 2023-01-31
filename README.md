@@ -1,0 +1,2 @@
+# ApplyAI
+Linear Regression Model
